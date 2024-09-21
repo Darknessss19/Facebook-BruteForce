@@ -12,8 +12,10 @@ https://youtu.be/qIfGxDmRQIU
 ```
 
 ## Run commands one by one
+```c#
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone 
+```https://github.com/IAmBlackHacker/Facebook-BruteForce
 >> cd Facebook-BruteForce
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
